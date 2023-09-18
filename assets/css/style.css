@@ -4414,7 +4414,7 @@ Background Image
   background-image: url(../images/bg/bg-image-8.jpg); }
 
 .bg_image--9 {
-  background-image: url(../images/bg/bg-image-9.jpg); }
+  background-image: url(../images/quotes1.jpg); }
 
 .bg_image--10 {
   background-image: url(../images/bg/bg-image-10.jpg); }
@@ -10791,7 +10791,8 @@ div#featured-project-carousel {
     border-radius: 10px;
     padding: 3px;
     background: #212428;
-    box-shadow: inset 8px 8px 16px #00000075,  inset -8px -8px 16px #383e4575; }
+    box-shadow: inset 8px 8px 16px #00000075, 
+ inset -8px -8px 16px #383e4575; }
     .progress-charts .progress .progress-bar {
       overflow: visible;
       position: relative;
